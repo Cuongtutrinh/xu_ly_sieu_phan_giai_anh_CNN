@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+pillow
+matplotlib
+tqdm
+
+pip install torch torchvision torchaudio
+pip install numpy opencv-python pillow matplotlib tqdm
